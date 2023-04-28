@@ -31,7 +31,7 @@ Me and some friends were making a modded Minecraft server, and one of the mods w
 
 TL;DR
 
-I have [*another* website](friendlyfire.oliveratkinson.net/) that kept track of players that visited our Minecraft base.
+I have [*another* website](https://friendlyfire.oliveratkinson.net/) that kept track of players that visited our Minecraft base.
 
 ___
 ## [notification_relay](https://github.com/Rushmore75/notification_relay)
@@ -51,7 +51,7 @@ Mod for old Minecraft. Relays chats to a server for useage there.
 
 ___
 ## [ftbu-drp-ws](https://github.com/Rushmore75/ftbu-drp-ws)
-Coming in with the best name out of all of them is [ftbu-drp-ws](https://github.com/Rushmore75/ftbu-drp-ws). The name is just an acronym for "Feed The Beast Utilities, Discord Rich Presense, Web Server." What it does it recieve messages from [RushmoreTweaks](rushmore75.github.io) to then send them to Discord. It handles all the formatting and making sure the correct server's messages are getting send to the right place. It also provides a way for the mod to listen for messages coming from Discord, to then relay back into the game.
+Coming in with the best name out of all of them is [ftbu-drp-ws](https://github.com/Rushmore75/ftbu-drp-ws). The name is just an acronym for "Feed The Beast Utilities, Discord Rich Presense, Web Server." What it does it recieve messages from [RushmoreTweaks](rushmore75.github.io/#RushmoreTweaks) to then send them to Discord. It handles all the formatting and making sure the correct server's messages are getting send to the right place. It also provides a way for the mod to listen for messages coming from Discord, to then relay back into the game.
 
 TL;DR
 
