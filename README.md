@@ -43,7 +43,7 @@ Relay messages (notifications) between multiple clients. Has ability to scale wa
 
 ___
 ## [RushmoreTweaks](https://github.com/Rushmore75/RushmoreTweaks)
-RushmoreTweaks is a mod for Minecraft, developed for the same server that [player_logger](rushmore75.github.io/#player_logger) was built for. It relays chats & other important events to to a [webserver](rushmore.github.io/#ftbu-drp--ws) where they can then be send to [Discord](https://discord.com). This allows for players to be able to interact, even when not by their gaming pc. It was the first Minecraft mod I had ever made and it was for an old, unsupported version to boot! Making this a quite challenging project to tackle, because if you want to ask for help online anywhere, they will just get mad that you aren;t using the newest version of the game.
+RushmoreTweaks is a mod for Minecraft, developed for the same server that [player_logger](#player_logger) was built for. It relays chats & other important events to to a [webserver](#ftbu-drp--ws) where they can then be send to [Discord](https://discord.com). This allows for players to be able to interact, even when not by their gaming pc. It was the first Minecraft mod I had ever made and it was for an old, unsupported version to boot! Making this a quite challenging project to tackle, because if you want to ask for help online anywhere, they will just get mad that you aren;t using the newest version of the game.
 
 TL;DR
 
@@ -51,11 +51,14 @@ Mod for old Minecraft. Relays chats to a server for useage there.
 
 ___
 ## [ftbu-drp-ws](https://github.com/Rushmore75/ftbu-drp-ws)
-Coming in with the best name out of all of them is [ftbu-drp-ws](https://github.com/Rushmore75/ftbu-drp-ws). The name is just an acronym for "Feed The Beast Utilities, Discord Rich Presense, Web Server." What it does it recieve messages from [RushmoreTweaks](rushmore75.github.io/#RushmoreTweaks) to then send them to Discord. It handles all the formatting and making sure the correct server's messages are getting send to the right place. It also provides a way for the mod to listen for messages coming from Discord, to then relay back into the game.
+Coming in with the best name out of all of them is [ftbu-drp-ws](https://github.com/Rushmore75/ftbu-drp-ws). The name is just an acronym for "Feed The Beast Utilities, Discord Rich Presense, Web Server." What it does it recieve messages from [RushmoreTweaks](#RushmoreTweaks) to then send them to Discord. It handles all the formatting and making sure the correct server's messages are getting send to the right place. It also provides a way for the mod to listen for messages coming from Discord, to then relay back into the game.
 
 TL;DR
 
-[RushmoreTweaks](rushmore75.github.io) sends information here, to be sent to Discord.
+[RushmoreTweaks](#RushmoreTweaks) sends information here, to be sent to Discord.
 
 ___
+## [cap_web_api](https://github.com/Rushmore75/cap_web_api)
+This is my capstone project at while at getting my associates in software development at college. It is a ticketing system for submitting issues. It allows for users to login, submit tickets, and if they are a staff, see what tickets are assigned to them. If the account is a manager it can assign tickets to people.
+
 
