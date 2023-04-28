@@ -35,5 +35,14 @@ I have [*another* website](friendlyfire.oliveratkinson.net/) that kept track of 
 
 ___
 ## [notification_relay](https://github.com/Rushmore75/notification_relay)
-This was built for a class, but was something I had wanted to make for a while now. It allows for multiple locations to all send notifications to one centeralized system. Where they could then be (un)read from any of the devices. Simmilar to how notifications work for iphone <-> mac. But considering I would never willingly purchace Apply *anything* I needed my own solution. While [kde connect](https://kdeconnect.kde.org/) *does* exist, I could never get it to work. So I made my own. The system usese both Redis and Postrgres for handling information. So it was a fun learning experiance
+This was built for a class, but was something I had wanted to make for a while now. It allows for multiple locations to all send notifications to one centeralized system. Where they could then be (un)read from any of the devices. Simmilar to how notifications work for iphone <-> mac. But considering I would never willingly purchace Apply *anything* I needed my own solution. While [kde connect](https://kdeconnect.kde.org/) *does* exist, I could never get it to work. So I made my own. The system usese both Redis and Postrgres for handling information. So it was a fun learning experiance.
+
+TL;DR
+
+Relay messages (notifications) between multiple clients. Has ability to scale way more than it will ever need.
+
+___
+## [RushmoreTweaks](https://github.com/Rushmore75/RushmoreTweaks) & [ftbu-drp-ws](https://github.com/Rushmore75/ftbu-drp-ws)
+RushmoreTweaks is a mod for Minecraft, developed for the same server that [player_logger](rushmore75.github.io/#player_logger) was built for. It relays chats & other important events to to a [webserver](rushmore.github.io/#ftbu-drp--ws) where they can then be send to [Discord](https://discord.com). This allows for players to be able to interact, even when not by their gaming pc. It was the first Minecraft mod I had ever made and it was for an old, unsupported version to boot! Making this a quite challenging project to tackle, because if you want to ask for help online anywhere, they will just get mad that you aren;t using the newest version of the game.
+
 
