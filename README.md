@@ -42,7 +42,7 @@ TL;DR
 Relay messages (notifications) between multiple clients. Has ability to scale way more than it will ever need.
 
 ___
-## [RushmoreTweaks](https://github.com/Rushmore75/RushmoreTweaks) & [ftbu-drp-ws](https://github.com/Rushmore75/ftbu-drp-ws)
+## [RushmoreTweaks](https://github.com/Rushmore75/RushmoreTweaks)
 RushmoreTweaks is a mod for Minecraft, developed for the same server that [player_logger](rushmore75.github.io/#player_logger) was built for. It relays chats & other important events to to a [webserver](rushmore.github.io/#ftbu-drp--ws) where they can then be send to [Discord](https://discord.com). This allows for players to be able to interact, even when not by their gaming pc. It was the first Minecraft mod I had ever made and it was for an old, unsupported version to boot! Making this a quite challenging project to tackle, because if you want to ask for help online anywhere, they will just get mad that you aren;t using the newest version of the game.
 
 TL;DR
