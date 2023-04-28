@@ -45,4 +45,17 @@ ___
 ## [RushmoreTweaks](https://github.com/Rushmore75/RushmoreTweaks) & [ftbu-drp-ws](https://github.com/Rushmore75/ftbu-drp-ws)
 RushmoreTweaks is a mod for Minecraft, developed for the same server that [player_logger](rushmore75.github.io/#player_logger) was built for. It relays chats & other important events to to a [webserver](rushmore.github.io/#ftbu-drp--ws) where they can then be send to [Discord](https://discord.com). This allows for players to be able to interact, even when not by their gaming pc. It was the first Minecraft mod I had ever made and it was for an old, unsupported version to boot! Making this a quite challenging project to tackle, because if you want to ask for help online anywhere, they will just get mad that you aren;t using the newest version of the game.
 
+TL;DR
+
+Mod for old Minecraft. Relays chats to a server for useage there.
+
+___
+## [ftbu-drp-ws](https://github.com/Rushmore75/ftbu-drp-ws)
+Coming in with the best name out of all of them is [ftbu-drp-ws](https://github.com/Rushmore75/ftbu-drp-ws). The name is just an acronym for "Feed The Beast Utilities, Discord Rich Presense, Web Server." What it does it recieve messages from [RushmoreTweaks](rushmore75.github.io) to then send them to Discord. It handles all the formatting and making sure the correct server's messages are getting send to the right place. It also provides a way for the mod to listen for messages coming from Discord, to then relay back into the game.
+
+TL;DR
+
+[RushmoreTweaks](rushmore75.github.io) sends information here, to be sent to Discord.
+
+___
 
