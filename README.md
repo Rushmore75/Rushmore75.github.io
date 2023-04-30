@@ -1,6 +1,4 @@
 
-Context, Action, Result, Reflection
-
 ___
 ## [Jack-AoIP](https://github.com/Rushmore75/Jack-AoIP)
 Having used autiodante's audio over ip in professional situiations, I decided to try my hand at making my own version. After a few iterations and trying different things such as TCP vs UDP connections, i've settled on an ok re implementation of Dante. It is still realtivly latent but it would require further testing to find where this latency is coming from.
